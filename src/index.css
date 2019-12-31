@@ -4,5 +4,6 @@
 body {
   margin: 0;
   padding: 0;
+  background-image: url(../src/img/1.jpg);
   font-family: 'Roboto', sans-serif;
 }
